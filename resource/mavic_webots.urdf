@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<robot name="Mavic Webots">
+    <webots>
+        <plugin type="webots_ros2_mavic.mavic_driver.MavicDriver" />
+    </webots>
+</robot>
